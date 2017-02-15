@@ -1,10 +1,10 @@
-Package: net.winneonsword.package
-Name: Test Package
+Package: sleptember.github.vexextend
+Name: Vex
 Version: 1.0
 Architecture: iphoneos-arm
-Description: This is a test package from /u/WinneonSword's tutorial repository!
-Depiction: http://repo.winneonsword.net/packages/package.html
-Homepage: http://repo.winneonsword.net
-Maintainer: Jesse Bryan <winneonsword@gmail.com>
-Author: Jesse Bryan <winneonsword@gmail.com>
+Description: m name jeff
+Depiction: http://sleptember.org
+Homepage: http://sleptember.org
+Maintainer: Billy Rees <contact@sleptember.org>
+Author: Billy Rees <contact@sleptemeber.org>
 Section: Themes
